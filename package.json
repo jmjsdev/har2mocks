@@ -1,0 +1,15 @@
+{
+  "name": "@jmcorp/har2mocks",
+  "version": "0.1.3",
+  "bin": {
+    "har2mocks": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "publish": "npm publish --access public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "A CLI tool to convert HAR files to JSON mocks"
+}
