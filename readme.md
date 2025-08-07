@@ -1,13 +1,13 @@
-# @jmcorp/har2mocks
+# @jmjs/har2mocks
 
-@jmcorp/har2mocks is a CLI tool that converts HAR (HTTP Archive) files to JSON mocks. It can also generate Cypress intercepts and MSW (Mock Service Worker) handlers.
+@jmjs/har2mocks is a CLI tool that converts HAR (HTTP Archive) files to JSON mocks. It can also generate Cypress intercepts and MSW (Mock Service Worker) handlers.
 
 ## Installation
 
-You can install @jmcorp/har2mocks globally using npm:
+You can install @jmjs/har2mocks globally using npm:
 
 ```bash
-npm install -g @jmcorp/har2mocks
+npm install -g @jmjs/har2mocks
 ```
 
 ## Usage
